@@ -1,4 +1,4 @@
-*Os efeitos da pandemia e mudança de governos sobre o preço de combustível*
+#Os efeitos da pandemia e mudança de governos sobre o preço de combustível
 
 Alunos do grupo: 
 - Djállen Fabrício Lima Dias

@@ -4,3 +4,4 @@ https://www.ibge.gov.br/estatisticas/economicas/contas-nacionais/9088-produto-in
 https://www.ibge.gov.br/estatisticas/economicas/contas-nacionais/9300-contas-nacionais-trimestrais.html?=&t=series-historicas&utm_source=landing&utm_medium=explica&utm_campaign=pib#evolucao-taxa
 https://sidra.ibge.gov.br/tabela/1846#/n1/all/v/all/p/-1/c11255/90687,90691,90696,90705,90706,90707,93404,93405,93406,93407,93408,102880/l/v,,c11255+t+p/resultado
 https://sidra.ibge.gov.br/tabela/6784#/n1/all/v/9812/p/all/d/v9812%202/l/v,,t+p/resultado
+

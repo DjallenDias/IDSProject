@@ -16,6 +16,7 @@
 - Como a pandemia afetou a inflação (IPCA) brasileira?
 - Como a pandemia afetou o IDH brasileiro?
 - Como esses dados estão correlacionados e podem eles apontar de fato o quanto a pandemia afetou a vida do brasileiro?
+- Como esses acontecimentos influenciaram nas ações da Petrobrás e preço do combustível?
 
 ### Links dos DataSets:
 - [PIB Brasileiro](https://www.ibge.gov.br/estatisticas/economicas/contas-nacionais/9300-contas-nacionais-trimestrais.html?=&t=series-historicas&utm_source=landing&utm_medium=explica&utm_campaign=pib#evolucao-taxa)
